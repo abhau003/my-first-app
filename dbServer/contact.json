@@ -1,0 +1,53 @@
+{
+    "contacts": [
+        {
+            "cid": 101,
+            "firstName": "Arun",
+            "lastName": "C",
+            "mobile": "999995555",
+            "mail": "carun@google.com",
+            "dateOfBirth": "1990-03-31",
+            "gender": "Male",
+            "group": "family"
+        },
+        {
+            "cid": 102,
+            "firstName": "Kumar",
+            "lastName": "C",
+            "mobile": "9999954445",
+            "mail": "kumar@google.com",
+            "dateOfBirth": "2000-04-01",
+            "gender": "Male",
+            "group": "family"
+        },
+        {
+            "cid": 103,
+            "firstName": "Ramsaran",
+            "lastName": "C",
+            "mobile": "9999955885",
+            "mail": "cram@google.com",
+            "dateOfBirth": "2000-04-02",
+            "gender": "Male",
+            "group": "friends"
+        },
+        {
+            "cid": 105,
+            "firstName": "Kani",
+            "lastName": "C",
+            "mobile": "999995588",
+            "mail": "kani@google.com",
+            "dateOfBirth": "2000-11-12",
+            "gender": "Female",
+            "group": "collegues"
+        },
+        {
+            "cid": 106,
+            "firstName": "Pathi",
+            "mobile": "9445588555",
+            "mail": "parthi@gmail.com",
+            "dateOfBirth": "1995-12-31",
+            "gender": "Male",
+            "group": "collegues"
+        }
+    ]
+}
